@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\bin\Debug\net8.0-windows\Bilheteria.exe
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\bin\Debug\net8.0-windows\Bilheteria.deps.json
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\bin\Debug\net8.0-windows\Bilheteria.runtimeconfig.json
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\bin\Debug\net8.0-windows\Bilheteria.dll
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\bin\Debug\net8.0-windows\Bilheteria.pdb
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.Form1.resources
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.dll
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\refint\Bilheteria.dll
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.pdb
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\Bilheteria.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Bilheteria\Bilheteria\obj\Debug\net8.0-windows\ref\Bilheteria.dll
