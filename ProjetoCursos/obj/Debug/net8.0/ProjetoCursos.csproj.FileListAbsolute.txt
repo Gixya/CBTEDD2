@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\bin\Debug\net8.0\ProjetoCursos.exe
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\bin\Debug\net8.0\ProjetoCursos.deps.json
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\bin\Debug\net8.0\ProjetoCursos.runtimeconfig.json
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\bin\Debug\net8.0\ProjetoCursos.dll
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\bin\Debug\net8.0\ProjetoCursos.pdb
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.AssemblyInfo.cs
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.dll
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\refint\ProjetoCursos.dll
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.pdb
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ProjetoCursos.genruntimeconfig.cache
+C:\Users\aluno\source\repos\ProjetoCursos\ProjetoCursos\obj\Debug\net8.0\ref\ProjetoCursos.dll
