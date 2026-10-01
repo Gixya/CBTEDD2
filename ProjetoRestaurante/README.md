@@ -15,14 +15,6 @@ O sistema simula o funcionamento de um restaurante, permitindo cadastrar pedidos
 * Calcular o valor total de cada pedido
 * Calcular a soma geral dos pedidos do dia
 
-## Tecnologias
-
-* C#
-* .NET
-* Programação Orientada a Objetos (POO)
-* Padrão MVC
-* Aplicação Console
-
 ## Estrutura
 
 * `Program.cs` - inicia o programa
